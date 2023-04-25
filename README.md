@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👯 I’m a Giser<br>
 🌱 I’m currently learning Urban Science/Big Data/Deep Learning<br>
 🔭 I’m currently working on my College application<br>
 🤔 I try to play kaggle sometimes<br>
