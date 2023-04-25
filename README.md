@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi！ I am LeoLiding👋 Welcome to my github~
 
 <!--
 **LeoLiding/LeoLiding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning Urban Science/Big Data/Deep Learning<br>
+🔭 I’m currently working on my College application<br>
+🤔 I try to play kaggle sometimes<br>
+💬 Contact me if you are also interested in these things<br>
 # Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/LeoLiding/count.svg)
 
