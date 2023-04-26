@@ -46,3 +46,17 @@ Here are some ideas to get you started:
         </td>
     </tr>
 </table>
+
+<h3>Pastels for the craft:</h3>
+<div style="float: left;">
+    
+<img src="https://badgen.net/badge/HTML/3/42AFCE?icon=" />
+<img src="https://badgen.net/badge/CSS/3/8DD6F9?icon=" />
+<img src="https://badgen.net/badge/Python/6/007ACC?icon=" />
+<img src="https://badgen.net/badge/C ++/4/5849BE?icon=" />
+<img src="https://badgen.net/badge/MySQL/3/00796B?icon=" />
+<img src="https://badgen.net/badge/PostgreSQL/3/0097A7?icon=" />
+<img src="https://badgen.net/badge/VSCode/6/00ACC1?icon=" />
+<img src="https://badgen.net/badge/ChatGPT/4/CED2D7?icon=" />
+    
+</div>
