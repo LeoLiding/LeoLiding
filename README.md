@@ -47,7 +47,7 @@ Here are some ideas to get you started:
     </tr>
 </table>
 
-<h3>Pastels for the craft:</h3>
+<h3>The badges of some programming languages and tools</h3>
 <div style="float: left;">
     
 <img src="https://badgen.net/badge/HTML/3/42AFCE?icon=" />
