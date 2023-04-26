@@ -46,8 +46,9 @@ Here are some ideas to get you started:
         </td>
     </tr>
 </table>
+<br>
+<h2>The badges of some programming languages and tools</h2>
 
-<h3>The badges of some programming languages and tools</h3>
 <div style="float: left;">
     
 <img src="https://badgen.net/badge/HTML/3/42AFCE?icon=" />
