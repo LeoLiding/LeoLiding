@@ -1,5 +1,4 @@
-### Hi！ I am LeoLiding👋 Welcome to my github~
-
+### Hi！ I am LeoLiding <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my github~
 <!--
 **LeoLiding/LeoLiding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,9 +17,29 @@ Here are some ideas to get you started:
 🌱 I’m currently learning Urban Science/Big Data/Deep Learning<br>
 🔭 I’m currently working on my College application<br>
 🤔 I try to play kaggle sometimes<br>
-💬 Contact me if you are also interested in these things<br>
-# Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/LeoLiding/count.svg)
+💬 Contact me if you are also interested in these things👋 <br>
+
+<h2>The badges of some programming languages and tools</h2>
+
+<div style="float: left;">
+    
+<img src="https://badgen.net/badge/Python/6/007ACC?icon=" />   
+<img src="https://badgen.net/badge/UrbanScience/6/007ACC?icon=" />  
+<img src="https://badgen.net/badge/HTML/3/42AFCE?icon=" />
+<img src="https://badgen.net/badge/CSS/3/8DD6F9?icon=" />
+<img src="https://badgen.net/badge/C ++/4/5849BE?icon=" />
+<img src="https://badgen.net/badge/MySQL/3/00796B?icon=" />
+<img src="https://badgen.net/badge/PostgreSQL/3/0097A7?icon=" />
+<img src="https://badgen.net/badge/Geospatial/6/00ACC1?icon=" />
+<img src="https://badgen.net/badge/ChatGPT/4/CED2D7?icon=" />
+<img src="https://badgen.net/badge/DeepLearning/4/CED2D7?icon=" />
+<img src="https://badgen.net/badge/BigData/5/CED2D7?icon=" />
+</div>
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoLiding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <table>
     <tr>
@@ -47,18 +66,6 @@ Here are some ideas to get you started:
     </tr>
 </table>
 <br>
-<h2>The badges of some programming languages and tools</h2>
 
-<div style="float: left;">
-    
-<img src="https://badgen.net/badge/Python/6/007ACC?icon=" />   
-<img src="https://badgen.net/badge/HTML/3/42AFCE?icon=" />
-<img src="https://badgen.net/badge/CSS/3/8DD6F9?icon=" />
-<img src="https://badgen.net/badge/C ++/4/5849BE?icon=" />
-<img src="https://badgen.net/badge/MySQL/3/00796B?icon=" />
-<img src="https://badgen.net/badge/PostgreSQL/3/0097A7?icon=" />
-<img src="https://badgen.net/badge/VSCode/6/00ACC1?icon=" />
-<img src="https://badgen.net/badge/ChatGPT/4/CED2D7?icon=" />
-<img src="https://badgen.net/badge/DeepLearning/4/CED2D7?icon=" />
-<img src="https://badgen.net/badge/BigData/5/CED2D7?icon=" />
-</div>
+# Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/LeoLiding/count.svg)
