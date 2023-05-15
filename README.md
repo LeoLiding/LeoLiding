@@ -49,19 +49,7 @@ Here are some ideas to get you started:
     </tr>
 </table>
 
-<table>
-    <tr>
-        <td >
-            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeoLiding&theme=vue" ></center>
-        </td>
-        <td >
-            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeoLiding&theme=github&utcOffset=8" align="right" /></center>
-        </td>
-        <td >
-            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeoLiding&theme=vue" align="right" /></center>
-        </td>
-    </tr>
-</table>
+
 <br>
 
 # Visitor Count
