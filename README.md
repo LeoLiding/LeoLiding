@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👯 I’m a Giser<br>
+👯 I’m am a multimodal algorithm engineer Intern<br>
 🌱 I’m currently learning AI4S/Multimodal Large Models/Deep Learning<br>
 🔭 I’m currently pursing Master degree in XMU<br>
 🤔 I try to play kaggle sometimes<br>
