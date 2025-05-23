@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👯 I’m a Giser<br>
-🌱 I’m currently learning Urban Science/Big Data/Deep Learning<br>
-🔭 I’m currently working on my College application<br>
+🌱 I’m currently learning AI4S/Multimodal Large Models/Deep Learning<br>
+🔭 I’m currently pursing master degree in XMU<br>
 🤔 I try to play kaggle sometimes<br>
 💬 Contact me if you are also interested in these things👋 <br>
 
